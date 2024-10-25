@@ -1,2 +1,1 @@
-# proyectoaws
-Taller para entregar 
+Cristopher Rivera Villalobos
